@@ -1,8 +1,12 @@
 # Introduction 
 TODO: Build simple repo of my website
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+# Site Details
+ToDo
+
+Nothing is done yet
+
+It will basic site:
 1.	Installation process
 2.	Software dependencies
 3.	Latest releases
